@@ -1,6 +1,6 @@
 #
 # ITEMS
-item.Ring.0.name=Gruvarbetarens ring
+item.Ring.name=Gruvarbetarens ring
 #
 # GUI
 button.baubles=Småsaker
